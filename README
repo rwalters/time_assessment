@@ -1,0 +1,1 @@
+The challenge was to accept a time string like "10:00PM" and an integer, add the integer to the minutes portion and return the result, ie, AddMinutes("10:00PM", 10) would return "10:10PM"
